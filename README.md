@@ -1,4 +1,4 @@
-# Simple Admin Panel by Faith, Powered by CoreUI React version
+# Simple Admin Panel by Faith, Powered by CoreUI React v3.2.1
 
 ## Intro 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
