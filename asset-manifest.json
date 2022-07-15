@@ -3,8 +3,8 @@
     "main.css": "/SimpleAdminPanel/static/css/main.287873b2.chunk.css",
     "main.js": "/SimpleAdminPanel/static/js/main.3e4e14d6.chunk.js",
     "main.js.map": "/SimpleAdminPanel/static/js/main.3e4e14d6.chunk.js.map",
-    "runtime-main.js": "/SimpleAdminPanel/static/js/runtime-main.1496d280.js",
-    "runtime-main.js.map": "/SimpleAdminPanel/static/js/runtime-main.1496d280.js.map",
+    "runtime-main.js": "/SimpleAdminPanel/static/js/runtime-main.8c5d51c7.js",
+    "runtime-main.js.map": "/SimpleAdminPanel/static/js/runtime-main.8c5d51c7.js.map",
     "static/js/2.ac8c42dd.chunk.js": "/SimpleAdminPanel/static/js/2.ac8c42dd.chunk.js",
     "static/js/2.ac8c42dd.chunk.js.map": "/SimpleAdminPanel/static/js/2.ac8c42dd.chunk.js.map",
     "static/css/3.73ff94ca.chunk.css": "/SimpleAdminPanel/static/css/3.73ff94ca.chunk.css",
@@ -12,8 +12,8 @@
     "static/js/3.55d8323b.chunk.js.map": "/SimpleAdminPanel/static/js/3.55d8323b.chunk.js.map",
     "static/js/4.13df9ecf.chunk.js": "/SimpleAdminPanel/static/js/4.13df9ecf.chunk.js",
     "static/js/4.13df9ecf.chunk.js.map": "/SimpleAdminPanel/static/js/4.13df9ecf.chunk.js.map",
-    "static/js/5.e18b2a2d.chunk.js": "/SimpleAdminPanel/static/js/5.e18b2a2d.chunk.js",
-    "static/js/5.e18b2a2d.chunk.js.map": "/SimpleAdminPanel/static/js/5.e18b2a2d.chunk.js.map",
+    "static/js/5.f343f752.chunk.js": "/SimpleAdminPanel/static/js/5.f343f752.chunk.js",
+    "static/js/5.f343f752.chunk.js.map": "/SimpleAdminPanel/static/js/5.f343f752.chunk.js.map",
     "index.html": "/SimpleAdminPanel/index.html",
     "static/css/3.73ff94ca.chunk.css.map": "/SimpleAdminPanel/static/css/3.73ff94ca.chunk.css.map",
     "static/css/main.287873b2.chunk.css.map": "/SimpleAdminPanel/static/css/main.287873b2.chunk.css.map",
@@ -21,7 +21,7 @@
     "static/js/3.55d8323b.chunk.js.LICENSE.txt": "/SimpleAdminPanel/static/js/3.55d8323b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1496d280.js",
+    "static/js/runtime-main.8c5d51c7.js",
     "static/js/2.ac8c42dd.chunk.js",
     "static/css/main.287873b2.chunk.css",
     "static/js/main.3e4e14d6.chunk.js"
